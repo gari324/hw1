@@ -1,0 +1,14 @@
+body{
+    background-color: #b8c0d3;
+}
+.container1{
+    width: 700px;
+    height: 400px;
+    border: 1px solid black;
+    margin-left: 25%;
+    margin-top: 5%;
+}
+.text1{
+    color: #5a606e;
+    height: 50px;
+}
